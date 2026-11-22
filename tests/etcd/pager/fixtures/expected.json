@@ -1,0 +1,5 @@
+{
+  "_source": "bbolt v1.5.0 'bbolt page <file> 0 1' and 'bbolt pages <file>' on the generated files",
+  "bbolt-keys-4096.db":  { "pageSize": 4096,  "txid": 4, "root": 44, "freelist": 45, "hwm": 86, "freePages": 42 },
+  "bbolt-keys-16384.db": { "pageSize": 16384, "txid": 4, "root": 13, "freelist": 14, "hwm": 24, "freePages": 11 }
+}
